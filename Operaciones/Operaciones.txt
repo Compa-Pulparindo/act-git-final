@@ -5,3 +5,12 @@ función SUMA
 #################### RESTA ####################
 función RESTA
 // Esta función permite restar dos números 
+
+#################### MULTIPLICACIÓN ####################
+fucnión multiplicación
+// Esta función permite multiplicar dos números
+
+#################### DIVISIÓN ####################
+función división
+// Esta fucnión permite dividir un número en base a otro
+// Ya funciona con una alerta
