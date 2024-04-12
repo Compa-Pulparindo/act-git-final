@@ -1,0 +1,16 @@
+#################### SUMA ####################
+función SUMA
+// Esta función permite generar una suma de N cantidad de números 
+
+#################### RESTA ####################
+función RESTA
+// Esta función permite restar dos números 
+
+#################### MULTIPLICACIÓN ####################
+fucnión multiplicación
+// Esta función permite multiplicar dos números
+
+#################### DIVISIÓN ####################
+función división
+// Esta fucnión permite dividir un número en base a otro
+// Tiene error al dividir entre 0
