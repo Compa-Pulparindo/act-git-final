@@ -6,3 +6,6 @@ funcion de mostrar los resultados de las operaciones
 /
 **************************************
 
+*************************************
+0 / 0 = error
+0/3 = error
