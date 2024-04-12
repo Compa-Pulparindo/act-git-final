@@ -1,0 +1,2 @@
+######### Graficacion #######
+Funciona correctamente en la aplicacion
