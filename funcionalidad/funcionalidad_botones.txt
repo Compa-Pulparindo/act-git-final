@@ -11,3 +11,9 @@ boton7 = 7
 boton8 = 8
 boton9 = 9
 ******************************************
+funcion de operaciones
+boton+ = num1 + num2
+boton- = num1 - num2
+boton* = num1 * num2
+boton/ = num1 / num2
+******************************************
