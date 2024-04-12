@@ -14,3 +14,7 @@ fucnión multiplicación
 función división
 // Esta fucnión permite dividir un número en base a otro
 // Ya funciona con una alerta
+
+#################### PORCENTAJE ####################
+función porcentaje
+// Esta función permite sacar el porcentaje de un número dependiendo de otro
