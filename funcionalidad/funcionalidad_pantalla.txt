@@ -1,0 +1,7 @@
+*************************************
+funcion de mostrar los resultados de las operaciones
++
+-
+*
+/
+****************************************

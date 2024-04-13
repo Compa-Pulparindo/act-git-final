@@ -1,0 +1,19 @@
+******************************************
+funcion boton 0 al 9
+boton0 = 0
+boton1 = 1
+boton2 = 2
+boton3 = 3
+boton4 = 4
+boton5 = 5
+boton6 = 6
+boton7 = 7
+boton8 = 8
+boton9 = 9
+******************************************
+funcion de operaciones
+boton+ = num1 + num2
+boton- = num1 - num2
+boton* = num1 * num2
+boton/ = num1 / num2
+******************************************
